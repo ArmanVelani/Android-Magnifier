@@ -7,8 +7,6 @@
 My topic was about Magnifier in android. There are various types of magnifiers like text magnifier, image magnifier or camera magnifier.
 text magnifier zooms the text when you touch or hover on it. same is for the image magnifier. the camera magnifier uses the secondary phone camera and then uses the whole phone as a magnifing tool. you might have seen this features mostly in iphones while tying a text message or checking a webpage image on google. It is introduced recently in android operating system. the magnifier only supports on android 9 which is the latest android operating system released in August 2018. To describe it even better lets just say it is a virtual magnifying glass that displays the enlarged view through an overlay pane that represents the lens.
     the usage for the magnifiger are a lot more than we can think of. it is used to point the pointer exactly between two letter. another usage is to use it for enlarging small text on a webpage or in a textbox. also you can use in to zoom the names of the places on the map. Due to it being released very recently there are not much contents available for it online. although many people tried to create third party apps for android in order to get a magnifier like ios in android but none of them can perform well. thus google finally decided to do it by themself and launched the magnifier widget function in android 9.0. this has prooved to be very helpful so far as users can finally copy, cut or delete the exact part of the text by selecting it.
-    
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
 ## Code Example
 
