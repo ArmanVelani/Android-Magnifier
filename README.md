@@ -1,4 +1,4 @@
-### Android-Magnifier
+# Android-Magnifier
 ## by Arman Velani(N01187157)
 
 
