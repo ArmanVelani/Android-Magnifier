@@ -1,4 +1,7 @@
 ### Android-Magnifier
+## by Arman Velani(N01187157)
+
+
 ## Synopsis
 
 My topic was about Magnifier in android. There are various types of magnifiers like text magnifier, image magnifier or camera magnifier.
@@ -9,10 +12,7 @@ At the top of the file there should be a short introduction and/ or overview tha
 
 ## Code Example
 
-The magnifier is already integrated with TextView, WebView and EditText. My application basically runs on the latesst android 9.0 basically it does not have any huge piece of code to run it as the magnifier widget is inbuilt in the android now. i have a couple of text view that when longpressed on any text it opens up the magnifier and keeps it on until the user lifts the finger off
-
-image of the app running.
-
+The magnifier is already integrated with TextView, WebView and EditText. My application basically runs on the latesst android 9.0 basically it does not have any huge piece of code to run it as the magnifier widget is inbuilt in the android now. i have a couple of text view that when longpressed on any text it opens up the magnifier and keeps it on until the user lifts the finger off.
 this feature was not well developed for android until recent August 2018, so i was not able to find much references. The piece of code that can explain it better on how the magnifier works is below:
 ```
 View Real = findViewById(R.id.Real);
